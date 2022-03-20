@@ -2,7 +2,8 @@
 
 ### Assignment Link: [01-flow-of-program.md](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/01-flow-of-program.md)<br><br>
 
-### Solutions:<br>
+### Solutions:
+(It might not be the optimised pseudocode)<br>
 1. Input a year and find whether it is a leap year or not:<br>
   -Solution:<br>
   ```
